@@ -39,7 +39,7 @@ def send(msg):
     print("Connection closed.")
     se.close()
 
-# declarar formato del textp recibido
+# declarar formato del texto recibido
 
 data = se.recv(10240)
 str_data = str(data, 'UTF-8')
