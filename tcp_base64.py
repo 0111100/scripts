@@ -2,7 +2,7 @@ import socket
 import re
 import base64
 
-s = ('challenge02.root-me.org', 52022)
+s = ('challenge02.root-me.org', 52023)
 
 # conexion al nc
 
