@@ -8,10 +8,10 @@ int main()
     scanf("%d",&n);
         
     if (n!=4){
-        printf("Es un numero primo");
+        printf(" %d es un numero primo",n);
     }
     else{
-        printf("No es un numero primo");
+        printf(" %d no es un numero primo",n);
     }
     
     return 0;
